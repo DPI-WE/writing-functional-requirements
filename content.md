@@ -100,7 +100,7 @@ A **functional specification** is a detailed document that describes the functio
 3. **Target User Persona**: Who is the primary user of this application?
 4. **Hypothesis**: What is the core value you are testing?
 5. **User Stories**: Include the prioritized user stories.
-6. **Domain Model**: Include your domain model ERD, and perhaps a link to a spreadsheet with sample data.
+6. **Domain Model**: Include your domain model ERD, a link to a spreadsheet with sample data, and perhaps some pseudocode models.
 7. **Sketches**: Include the sketches of your app’s flow and key screens.
 
 ### Examples
