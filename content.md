@@ -106,7 +106,7 @@ A **functional specification** is a detailed document that describes the functio
 ### Examples
 - [Pensieve](https://gist.github.com/thierrychau/0d558373c7605ed4459f21a80ea86112)
 - [Clip Cloud](https://gist.github.com/salcasta/186adcf445a19a4c3ba40fb4503c44e2)
-- [3E | Efficiently Effortless Exercise](https://gist.github.com/jpfababaer/9a61220d9e05c20e04e22160662aebc5)
+- [3E: Efficiently Effortless Exercise](https://gist.github.com/jpfababaer/9a61220d9e05c20e04e22160662aebc5)
 - [One Slot](https://gist.github.com/ahuynh3a/acdbc91bfa58467beee70b0156d3cef8)
 - [Vitals](https://gist.github.com/amandaag39/72ec6eea2c66c4f24a0d114827a1b47d)
 - [The Efficient Birder](https://gist.github.com/WCW789/759992593c6405bc384546fd8f5c55cd)
