@@ -115,8 +115,6 @@ A **functional specification** is a detailed document that describes the functio
 
 ### Assignment
 
-Please sign up for GitHub and share your profile page. It should be something like this: `github.com/<username>`.
-
 Please write a functional specification for your project using a [GitHub Gist](https://gist.github.com/) and share your url.
 
 - Enter your functional specification gist URL:
