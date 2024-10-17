@@ -75,7 +75,6 @@ Creating a domain model helps ensure that your database structure supports all t
 # - updated_at
 # - email
 # - password
-
 class User
   has_many :tasks
 end
