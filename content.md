@@ -116,18 +116,17 @@ A **functional specification** is a detailed document that describes the functio
 
 Please write a functional specification for your project using a [GitHub Gist](https://gist.github.com/) and share your url.
 
-- Enter your functional specification gist URL:
-- https://gist.github.com/username/id
+- Have you created a functional specification using a GitHub Gist?
+- Yes
   - Great job!
-- any
-  - Not quite. Make sure the URL looks like: `https://gist.github.com/username/id`
-{: .free_text #functional_spec_gist_url title="Submit Functional Specification" points="1" answer="1" }
+- No
+  - Please create a functional specification in a Gist before continuing.
+{: .choose_best #create_functional_spec title="Create Functional Specification" points="1" answer="1" }
 
 <div class="alert alert-danger mt-2">
 
 After you submit the URL here, return to Canvas and submit the URL again in the assignment "
 Submit Functional Specification".
-
 
 An instructor will provide additional feedback on your submission there.
 
